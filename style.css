@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=Bubbler+One|Megrim|Snippet');
+
+ ::-webkit-scrollbar {progress; width: 0px;}
+ ::-webkit-scrollbar-thumb:vertical {background-color: transparent;
+ border: 0px solid transparent;
+ -webkit-border-radius: 1px;
+ box-shadow: 0 0 px transparent, inset 0 0 0px transparent;
+ -moz-transition:all 0.3s ease-in-out;
+ -webkit-transition:all 0.3s ease-in-out}
+ ::-webkit-scrollbar-track{
+border:0px transparent solid;
+border-radius:10px;
+-webkit-box-shadow:0 0 0px transparent inset;https://srv.buysellads.com/ads/click/x/GTND42JNF6YDEK7UF6B4YKQNCYAIT2QUCYYILZ3JCYSDE2Q7FTADEK3KC67D55QJCYAD523NCWBDPK3NCTBDC277HEYIK2J7C67I653ECTNCYBZ52K
+} 
+
+body {
+  background-color:black;
+  background-image:url('https://image.ibb.co/kaKvvx/subtle_carbon.png');
+  background-size:19px;
+  overflow:hidden;
+}
+
+.bigassbox {
+  position:absolute;
+  bottom:0%;
+  left:50%;
+  margin-left:-500px;
+  width:1000px;
+  height:740px;
+}
+
+.img {
+  position:absolute;
+  top:0;
+  left:50%;
+  margin-left:-340.5px;
+  width:730px;
+  height:600px;
+  background-image:url('https://image.ibb.co/irM7N7/REVISED_k_BGc.png');
+  background-size:100%;
+}
+
+.tempbox {
+  position:absolute;
+  bottom:2.9%;
+  left:21.2%;
+  width:337px;
+  height:171px;
+  background-color:#b0a3cc;
+  border:#F6FAF9 1px solid;
+  z-index:10;
+}
+
+.boxxo1 {
+  position:absolute;
+  top:7px;
+  left:7px;
+  width:305px;
+  height:145px;
+  background-color:rgba(218,208,219,1);
+  font-family:snippet;
+  font-size:12px;
+  background-image:url('https://image.ibb.co/i5DCzG/az_subtle.png');
+  background-size:50px;
+  text-align:justify;
+  color:#2B2B2B;
+  border:#EDE2EE 1px solid;
+  padding:5px 8px 5px 8px;
+  z-index:10;
+  overflow:auto;
+}
+
+.tempbox2 {
+  position:absolute;
+  bottom:2.9%;
+  left:55%;
+  width:300px;
+  height:400px;
+  background-color:#b0a3cc;
+  border:#F6FAF9 1px solid;
+  z-index:10;
+}
+
+.boxxo2 {
+  position:absolute;
+  top:7px;
+  left:7px;
+  width:284px;
+  height:384px;
+  font-family:snippet;
+  font-size:12px;
+  background-color:rgba(218,208,219,1);
+  background-image:url('https://image.ibb.co/i5DCzG/az_subtle.png');
+  background-size:50px;
+  color:#2B2B2B;
+  border:#EDE2EE 1px solid;
+  z-index:10;
+}
+
+.name { position: absolute; left: -11.5%; top: 67.2%; background:transparent; width: 1000px; height: 65px; font-family: 'Megrim'; font-size: 40px; font-weight:60; background: url(https://media.giphy.com/media/3ov9jLGGAksVwJZra0/source.gif) -20px -20px repeat; -webkit-text-fill-color: transparent; -webkit-background-clip: text; text-align: left; text-transform: uppercase; line-height: 65px; text-align: center; letter-spacing: 7px; }
+ 
+.nameb { position: absolute; left: -11.5%; top: 67.2%; background:transparent; width: 1000px; height: 65px; font-family: 'Megrim'; font-size: 40px; font-weight:900; -webkit-text-fill-color: transparent; text-transform: none; -webkit-background-clip: text; text-shadow: -1px 0 #7C589C, 0 1px #7C589C,1px 0 #7C589C, 0 -1px #7C589C; text-align: left; opacity: 1; text-transform: uppercase; line-height: 65px; text-align: center; letter-spacing: 7px; }
+
+  table.table1 {
+    width:100%;
+    color:rgba(57,57,57,1);
+    padding:10px 10px 10px 10px;
+    horizontal-align:center;
+    
+  }
+ 
+  table.table1 td {
+    vertical-align:text-top;
+    width:220px;
+  }
+ 
+  table.table1 tr {
+    border-spacing:40px;
+    margin-bottom:30px;
+  }
+
+h1 {
+  font-family:bubbler one;
+  text-align:center;
+  color:#3D1935;
+}
+
+h2 {
+  font-family:bubbler one;
+  text-align:left;
+  padding-left:3px;
+  color:#C894CA;
+  border-bottom:1px solid #D3A7E1;
+}
+
+#music-bg {
+ position:absolute;
+	background-image: url('');
+	left: 79%;
+	top: 37.9%;
+	width:100px;
+	height:35px;
+	opacity:1;
+	-webkit-animation: fade4 2s 6s;
+	animation: fade4 2s 6s;
+	-webkit-animation-fill-mode: forwards;
+	animation-fill-mode: forwards;
+	 z-index: 9999;}
+
+	#music{
+	position:absolute;
+	background-image: 
+	url('https://78.media.tumblr.com/tumblr_m9c8xvWyiH1rto88t.gif');
+	background-repeat: no-repeat;
+	background-size: 40px;
+	width:100px;
+	height:35px;
+	z-index: 9999;
+	left:8;
+	top:3;
+	overflow:hidden;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	}
+
+a {
+  font-variant:small-caps;
+  color:#4A4884;
+}
+
+b {
+  color:#558FA4;
+  font-weight:900;
+}
